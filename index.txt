@@ -1,1 +1,2 @@
-html is hypertext markup language
+html is hypertext markup language used to store html files
+
